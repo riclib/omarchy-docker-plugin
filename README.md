@@ -66,6 +66,10 @@ omarchy-shell shell summon djjeane.docker-monitor
 omarchy-shell shell hide djjeane.docker-monitor
 ```
 
+## License
+
+MIT
+
 ## Requirements
 
 - Docker CLI (`docker`) accessible to the current user
