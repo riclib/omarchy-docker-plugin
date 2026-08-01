@@ -2,6 +2,8 @@
 
 An Omarchy Quattro bar widget for monitoring Docker containers.
 
+![Overview](images/Overview.png)
+
 ## Features
 
 - **Compose project grouping** — containers are organized by their Docker Compose project with collapsible headers
@@ -10,6 +12,10 @@ An Omarchy Quattro bar widget for monitoring Docker containers.
 - **Log viewer** — view recent container logs with timestamps
 - **Desktop notifications** — alerts when containers stop, become unhealthy, or start back up
 - **Configurable polling** — adjustable refresh interval (default 10s)
+
+### Log Viewer
+
+![Log View](images/Log-View.png)
 
 ## Install
 
