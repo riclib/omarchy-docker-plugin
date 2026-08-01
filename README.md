@@ -2,7 +2,7 @@
 
 An Omarchy Quattro bar widget for monitoring Docker containers.
 
-![Overview](images/Overview.png)
+![Overview](preview.png)
 
 ## Features
 
